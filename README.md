@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Seems to be an issue with AsyncData when hitting a page directly via an extendedRoute.
+Is there an issue with AsyncData when hitting a page directly via an extendedRoute in static mode?
 
 The data seems to be undefined. It's okay if navigating to the page by a `<nuxt-link />`.
 
