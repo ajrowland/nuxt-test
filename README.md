@@ -6,6 +6,8 @@ Seems to be an issue with AsyncData when hitting a page directly via an extended
 
 The data seems to be undefined. It's okay if navigating to the page by a `<nuxt-link />`.
 
+Only affects static generation.
+
 This doesn't seem to be an issue for v2.14.7 or earlier.
 
 ## To test
